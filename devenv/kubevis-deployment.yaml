@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
         - name: kubevis
-          image: elliotxkim/kubevis
+          image: kubevis-dev:${DATE_TAG}
+          imagePullPolicy: Never
           ports:
             - containerPort: 3000

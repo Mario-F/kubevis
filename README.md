@@ -50,6 +50,22 @@ Then, open your web browser to [http://localhost:3000](http://localhost:3000).
 
 * Use the View dropdown to toggle between Graph and Table Views
 
+## Development
+
+To get starting development there are some ressources in the `devenv` folder to use, an example with minikube would be to setup:
+
+```shell
+minikube start
+# To use minkube docker context
+eval $(minikube docker-env)
+
+# Prepare application
+npm install
+npm start build
+```
+
+After that you can simple deploy your current code by running: `./devenv/run-minikube.sh`
+
 ## Built With
 * [React](https://github.com/facebook/react) 
 * [Redux](https://github.com/reduxjs/redux) 
