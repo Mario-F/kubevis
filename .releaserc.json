@@ -20,7 +20,8 @@
       {
         "assets": [
           "CHANGELOG.md",
-          "README.md"
+          "README.md",
+          "charts/kubevis/Chart.yaml"
         ],
         "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}"
       }
