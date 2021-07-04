@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: spekt8
+  name: kubevis
 spec:
   selector:
     matchLabels:
-      component: spekt8
+      component: kubevis
   replicas: 1
   template:
     metadata:
       labels:
-        component: spekt8
+        component: kubevis
     spec:
       containers:
-        - name: spekt8
-          image: elliotxkim/spekt8
+        - name: kubevis
+          image: elliotxkim/kubevis
           ports:
             - containerPort: 3000

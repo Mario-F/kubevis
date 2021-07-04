@@ -409,7 +409,7 @@ exports[`Left panel component should render correctly 1`] = `
         id="paneltitle"
         variant="h6"
       >
-        SPEKT8
+        kubevis
       </WithStyles(Typography)>
       <WithStyles(IconButton)>
         <pure(ChevronLeftIcon) />

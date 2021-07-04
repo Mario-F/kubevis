@@ -436,7 +436,7 @@ class App extends React.Component {
 						</Toolbar>
 						{/* Github banner on the top right */}
 						<div className={classes.githubWrapper}>
-							<GithubCorner href="https://github.com/spekt8/spekt8" size="65" bannerColor="rgb(233, 227, 202)" octoColor="#08182E"/>
+							<GithubCorner href="https://github.com/kubevis/kubevis" size="65" bannerColor="rgb(233, 227, 202)" octoColor="#08182E"/>
 						</div>
           </AppBar>
 					{before}
