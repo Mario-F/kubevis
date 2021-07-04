@@ -1,5 +1,9 @@
 # KUBEVIS
 
+*Attention!* This project is in a heavy rebuild at this moment to provide an easy deployment and fixed functions.
+
+## Description
+
 kubevis is a new visualization tool for your Kubernetes clusters. It automatically builds logical topologies of your application and infrastructure, which enable your SRE and Ops team to intuitively understand, monitor, and control your containerized, microservices based application. Simply deploy our containerized application directly into your Kubernetes cluster. 
 
 <img src="docs/kubevis-preview.gif" width="600" height="300" />
