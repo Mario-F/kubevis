@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Mario-F/kubevis/compare/v1.2.0...v1.3.0) (2021-07-04)
+
+
+### Features
+
+* **project:** added semantic-release-helm release ([2ce26c3](https://github.com/Mario-F/kubevis/commit/2ce26c337110b6459c3e23d8fb2c244bac4f57ea))
+
 # [1.2.0](https://github.com/Mario-F/kubevis/compare/v1.1.4...v1.2.0) (2021-07-04)
 
 
