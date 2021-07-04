@@ -2,7 +2,7 @@
 
 kubevis is a new visualization tool for your Kubernetes clusters. It automatically builds logical topologies of your application and infrastructure, which enable your SRE and Ops team to intuitively understand, monitor, and control your containerized, microservices based application. Simply deploy our containerized application directly into your Kubernetes cluster. 
 
-<img src="https://github.com/Mario-F/kubevis/blob/master/kubevis-preview.gif" width="600" height="300" />
+<img src="docs/kubevis-preview.gif" width="600" height="300" />
 
 When your app is running in Kubernetes, our visualization tool will display all the Pods, Services, and Ingresses that allow you to drill down on Kubernetes clusters. The information provided to you includes but is not limited to the following:
 
