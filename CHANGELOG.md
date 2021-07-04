@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Mario-F/kubevis/compare/v1.1.4...v1.2.0) (2021-07-04)
+
+
+### Features
+
+* **project:** added helm chart release ([dbc224d](https://github.com/Mario-F/kubevis/commit/dbc224d8fe416960880c09a83e080b72aad35fcc))
+
 ## [1.1.4](https://github.com/Mario-F/kubevis/compare/v1.1.3...v1.1.4) (2021-07-04)
 
 
