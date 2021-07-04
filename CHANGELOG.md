@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Mario-F/kubevis/compare/v1.3.0...v1.3.1) (2021-07-04)
+
+
+### Bug Fixes
+
+* **project:** chart yaml need to by included to release git commit ([3564c51](https://github.com/Mario-F/kubevis/commit/3564c51509d1164736cf8df25aaf671eb1a1965c))
+
 # [1.3.0](https://github.com/Mario-F/kubevis/compare/v1.2.0...v1.3.0) (2021-07-04)
 
 
