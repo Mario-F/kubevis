@@ -30,12 +30,6 @@ npm start build
 
 After that you can simple deploy your current code by running: `./devenv/run-minikube.sh`
 
-## Built With
-* [React](https://github.com/facebook/react) 
-* [Redux](https://github.com/reduxjs/redux) 
-* [React-Graph-Vis](https://github.com/crubier/react-graph-vis)
-* [Jest](https://github.com/facebook/jest/)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Mario-F/kubevis/blob/master/LICENSE) file for details
