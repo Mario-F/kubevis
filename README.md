@@ -14,26 +14,6 @@ While the current app does not directly visualize any controllers (such as Deplo
 
 In addition to these views, nodes can be presented either in graphical or in table mode. The graphical mode is practical for obtaining a quick visual overview of your app, and its infrastructure and connections between all of the nodes. And when you switch to table mode, nodes are presented in a convenient list that displays the resources being consumed by processes, containers, and hosts.
 
-
-## How to Use 
-
-**Navigation**
-
-* Use arrow keys for movement
-* Use the ‘-’ or ‘+’ for zoom
-
-**Legend**
-
-* Use the switch icons next to the legend to filter based on Object Types
-
-**Graph**
-
-* Click on Pods/Services/Ingresses to see more detailed information about the selected Object
-
-**View**
-
-* Use the View dropdown to toggle between Graph and Table Views
-
 ## Development
 
 To get starting development there are some ressources in the `devenv` folder to use, an example with minikube would be to setup:
