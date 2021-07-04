@@ -10,6 +10,12 @@
       }
     ],
     [
+      "semantic-release-helm",
+      {
+        "chartPath": "./charts/kubevis"
+      }
+    ],
+    [
       "@semantic-release/git",
       {
         "assets": [
