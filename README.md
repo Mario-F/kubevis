@@ -22,6 +22,15 @@ While the current app does not directly visualize any controllers (such as Deplo
 
 In addition to these views, nodes can be presented either in graphical or in table mode. The graphical mode is practical for obtaining a quick visual overview of your app, and its infrastructure and connections between all of the nodes. And when you switch to table mode, nodes are presented in a convenient list that displays the resources being consumed by processes, containers, and hosts.
 
+## Usage
+
+Using the helm chart simple use the following commands:
+
+```shell
+helm repo add mariof-kubevis https://mario-f.github.io/kubevis/
+helm install kubevis mariof-kubevis/kubevis
+```
+
 ## Development
 
 To get starting development there are some ressources in the `devenv` folder to use, an example with minikube would be to setup:
