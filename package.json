@@ -1,16 +1,16 @@
 {
-  "name": "docker-kubernetes-udemy3",
+  "name": "kubevis",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
     "test": "jest --verbose --coverage --coverageReporters=text-summary",
     "server": "nodemon src/server/server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mario Fritschen",
+  "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.8",
