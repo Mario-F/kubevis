@@ -1,13 +1,14 @@
 {
   "name": "kubevis",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "src/server/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
     "test": "jest --verbose --coverage --coverageReporters=text-summary",
-    "server": "nodemon src/server/server.js"
+    "server": "nodemon src/server/server.js",
+    "semantic-release": "semantic-release"
   },
   "author": "Mario Fritschen",
   "license": "MIT",
@@ -52,6 +53,8 @@
     ]
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
@@ -73,11 +76,16 @@
     "nodemon": "^1.18.5",
     "react-addons-test-utils": "^15.6.2",
     "sass-loader": "^7.1.0",
+    "semantic-release": "^17.4.4",
     "style-loader": "^0.23.1",
     "superagent": "^4.0.0-beta.5",
     "supertest": "^3.3.0",
     "webpack": "^4.23.1",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mario-F/kubevis.git"
   }
 }
