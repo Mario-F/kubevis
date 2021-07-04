@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Mario-F/kubevis/compare/v1.0.0...v1.1.0) (2021-07-04)
+
+
+### Features
+
+* **docker:** added a github docker release process ([328549e](https://github.com/Mario-F/kubevis/commit/328549ea25a67f2ad17be6fa13601c93c3be8a3d))
+
 # 1.0.0 (2021-07-04)
 
 
