@@ -14,22 +14,6 @@ While the current app does not directly visualize any controllers (such as Deplo
 
 In addition to these views, nodes can be presented either in graphical or in table mode. The graphical mode is practical for obtaining a quick visual overview of your app, and its infrastructure and connections between all of the nodes. And when you switch to table mode, nodes are presented in a convenient list that displays the resources being consumed by processes, containers, and hosts.
 
-## Deployment
-
-These instructions presume you have a Kubernetes cluster already running. 
-
-An image of the application has been pushed to [Docker Hub](https://hub.docker.com/r/elliotxkim/kubevis/tags/) for those who would like to build the image directly from the public repository. 
-
-We are also providing a deployment file that you can apply directly to your Kubernetes cluster using the command line. 
-
-* kubectl apply -f [kubevis-deployment.yaml](https://raw.githubusercontent.com/Mario-F/kubevis/master/kubevis-deployment.yaml)
-* kubectl port-forward deployment/kubevis 3000:3000
-
-In addition, in order to allow reading resources of the API, you must configure a set of permissions. We have set up a YAML file using RBAC authorization which you can apply directly to your Kubernetes cluster using the command line:
-* kubectl apply -f [fabric8-rbac.yaml](https://raw.githubusercontent.com/Mario-F/kubevis/master/fabric8-rbac.yaml).
-
-Then, open your web browser to [http://localhost:3000](http://localhost:3000).
-
 
 ## How to Use 
 
