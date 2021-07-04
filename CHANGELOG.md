@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/Mario-F/kubevis/compare/v1.1.3...v1.1.4) (2021-07-04)
+
+
+### Bug Fixes
+
+* **project:** semantic-release must use personal token ([38a330c](https://github.com/Mario-F/kubevis/commit/38a330c9bb51d80143f1d8cf1a64e55bdfa4a67d))
+
 ## [1.1.3](https://github.com/Mario-F/kubevis/compare/v1.1.2...v1.1.3) (2021-07-04)
 
 
