@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Mario-F/kubevis/compare/v1.1.2...v1.1.3) (2021-07-04)
+
+
+### Bug Fixes
+
+* **project:** added docker image badge as placeholder for auto replacing ([9c138ba](https://github.com/Mario-F/kubevis/commit/9c138ba1b5a8d181ec412b5b017f5f14991b66b7))
+
 ## [1.1.2](https://github.com/Mario-F/kubevis/compare/v1.1.1...v1.1.2) (2021-07-04)
 
 
