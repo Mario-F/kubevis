@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/Mario-F/kubevis/compare/v1.3.2...v1.3.3) (2021-07-04)
+
+
+### Bug Fixes
+
+* **project:** try helm releases on publish ([fd862f5](https://github.com/Mario-F/kubevis/commit/fd862f52e75ae713bf226223d23219e5be9c94ee))
+
 ## [1.3.2](https://github.com/Mario-F/kubevis/compare/v1.3.1...v1.3.2) (2021-07-04)
 
 
