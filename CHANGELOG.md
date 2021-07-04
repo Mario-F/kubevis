@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Mario-F/kubevis/compare/v1.1.0...v1.1.1) (2021-07-04)
+
+
+### Bug Fixes
+
+* **docker:** raw tags on github docker example meight be wrong ([5745f09](https://github.com/Mario-F/kubevis/commit/5745f096ea388c626026126e9f770130ddf69036))
+
 # [1.1.0](https://github.com/Mario-F/kubevis/compare/v1.0.0...v1.1.0) (2021-07-04)
 
 
