@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/Mario-F/kubevis/compare/v1.3.1...v1.3.2) (2021-07-04)
+
+
+### Bug Fixes
+
+* **project:** update helm chart version ([a19a54f](https://github.com/Mario-F/kubevis/commit/a19a54ff81b4eb712b29362f5dd1535b26ead4db))
+
 ## [1.3.1](https://github.com/Mario-F/kubevis/compare/v1.3.0...v1.3.1) (2021-07-04)
 
 
