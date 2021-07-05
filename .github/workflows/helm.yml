@@ -1,9 +1,8 @@
 name: Release Charts
 
 on:
-  push:
-    branches:
-      - master
+  release:
+    types: [published]
 
 jobs:
   release:
@@ -28,3 +27,4 @@ jobs:
         uses: helm/chart-releaser-action@v1.2.1
         env:
           CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          RELEASE_NAME_TEMPLATE: "chart-{{ .Version }}"
