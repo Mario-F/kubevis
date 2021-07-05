@@ -27,8 +27,8 @@ In addition to these views, nodes can be presented either in graphical or in tab
 Using the helm chart simple use the following commands:
 
 ```shell
-helm repo add mariof-kubevis https://mario-f.github.io/kubevis/
-helm install kubevis mariof-kubevis/kubevis
+helm repo add mariof-charts https://mario-f.github.io/helm-charts/
+helm install kubevis mariof-charts/kubevis
 ```
 
 ## Development
