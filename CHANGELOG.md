@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/Mario-F/kubevis/compare/v1.3.5...v1.3.6) (2021-07-05)
+
+
+### Bug Fixes
+
+* **helm:** chart-releaser will set version by self? ([6462599](https://github.com/Mario-F/kubevis/commit/646259965d9b7e1d6dfe7882c1daa9c7555b0165))
+
 ## [1.3.5](https://github.com/Mario-F/kubevis/compare/v1.3.4...v1.3.5) (2021-07-05)
 
 
