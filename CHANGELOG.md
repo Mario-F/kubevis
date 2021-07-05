@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/Mario-F/kubevis/compare/v1.3.6...v1.4.0) (2021-07-05)
+
+
+### Bug Fixes
+
+* **helm:** revert to semanitc-release helm chart tagging ([b0494a9](https://github.com/Mario-F/kubevis/commit/b0494a9fe6d87b96f9ebc133bfdf239f7c4a419f))
+
+
+### Features
+
+* **helm:** migrated helm-chart to own repository ([5cf4048](https://github.com/Mario-F/kubevis/commit/5cf404843b4a9c45e453795627707cd48569dea3))
+
 ## [1.3.6](https://github.com/Mario-F/kubevis/compare/v1.3.5...v1.3.6) (2021-07-05)
 
 
