@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/Mario-F/kubevis/compare/v1.3.4...v1.3.5) (2021-07-05)
+
+
+### Bug Fixes
+
+* **helm:** try fixed template name for chart release ([07240d1](https://github.com/Mario-F/kubevis/commit/07240d1cc66791bda791f9d71eb05ff1d90e0111))
+
 ## [1.3.4](https://github.com/Mario-F/kubevis/compare/v1.3.3...v1.3.4) (2021-07-05)
 
 
