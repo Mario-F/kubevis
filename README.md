@@ -39,10 +39,6 @@ To get starting development there are some ressources in the `devenv` folder to 
 minikube start
 # To use minkube docker context
 eval $(minikube docker-env)
-
-# Prepare application
-npm install
-npm start build
 ```
 
 After that you can simple deploy your current code by running: `./devenv/run-minikube.sh`
