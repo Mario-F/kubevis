@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/Mario-F/kubevis/compare/v1.4.0...v1.4.1) (2021-07-12)
+
+
+### Bug Fixes
+
+* **app:** remove a code backup folder ([6b369fe](https://github.com/Mario-F/kubevis/commit/6b369fe2ba48f1e6517cb78b05fabc9c4e8bf666))
+
 # [1.4.0](https://github.com/Mario-F/kubevis/compare/v1.3.6...v1.4.0) (2021-07-05)
 
 
